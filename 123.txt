@@ -1,0 +1,6 @@
+main(조장) - branch rules(x - Lock Branch)
+develop(조장) - branch rules()
+ - feature(조원)	
+ - feature(조원)
+ - feature(조원)
+ - feature(조원)
